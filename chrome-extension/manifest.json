@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "时差计算器",
+  "version": "1.0.0",
+  "description": "快速计算不同时区之间的时间差",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
